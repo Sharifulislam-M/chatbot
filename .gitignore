@@ -1,0 +1,18 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.so
+*.DS_Store
+
+# Virtual environment
+venv/
+env/
+
+# Logs & databases
+*.log
+*.sqlite3
+
+# Ignore sensitive files
+.env
+echo venv/ >> .gitignore
+.env
